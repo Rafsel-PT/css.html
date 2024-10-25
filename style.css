@@ -1,0 +1,23 @@
+div{
+background-color: rosybrown;
+height: 350px;
+width: 350px;
+border-radius: 30%;
+}
+img{
+    height: 350px;
+    width: 350px;
+    border-radius: 30%;
+}   
+.A{
+    color: orange;
+}    
+.B{
+    color: red;
+}
+.C{
+    color: black;
+}
+.D{
+    color: aqua;
+}
